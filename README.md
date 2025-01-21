@@ -1,6 +1,6 @@
 [![Build status](https://ci.appveyor.com/api/projects/status/20gqihov5dg3n4n6?svg=true)](https://ci.appveyor.com/project/ART20230129/js-ahj-hw-9-animation)
 
-![CI](https://github.com/ART20230129/js_ahj_hw_9_animation /actions/workflows/web.yml/badge.svg)
+![CI](https://github.com/ART20230129/js_ahj_hw_9_animation/actions/workflows/web.yml/badge.svg)
 
 # Домашнее задание к занятию "9. Анимации и CSS"
 
