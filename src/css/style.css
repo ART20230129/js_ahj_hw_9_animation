@@ -1,0 +1,62 @@
+body {
+        box-sizing: border-box;
+}
+
+h2 {
+        text-align: center;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: navy;
+}
+
+.container {
+        width: 500px;
+        background-color: aqua;
+        margin-top: 50px;
+        margin-left: 50px;
+}
+
+.button {
+        font-size: 24px;
+        background-color: rgb(113, 133, 223);
+        border-radius: 5px;
+        margin-left: 20px;
+        margin-top: 10px;
+        margin-bottom: 10px;
+}
+
+.button:hover {
+        background-color: rgb(219, 39, 177);
+        cursor: pointer;
+}
+
+
+.text-container {
+        max-height: 0px;
+        margin-top: 20px;
+        line-height: 24px;
+        text-align: left;
+        transition: max-height 0.75s;
+        overflow: hidden; /* Если содержимое блока будет больше, чем границы блока, оно будет «обрезано» */
+}
+
+
+.text-container.show {
+        max-height: 300px;
+
+}
+
+.copy {
+        width: 50px;
+        margin-left: auto;
+        padding-bottom: 10px;
+        opacity: 70%;
+}
+
+.text-collapse {
+        background-color: #fff;
+        border: 1px solid rgba(0, 0, 0, 0.125);
+        border-radius: 4px;
+        padding: 20px;
+        margin: 20px;
+        
+}
