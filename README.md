@@ -2,6 +2,8 @@
 
 ![CI](https://github.com/ART20230129/js_ahj_hw_9_animation/actions/workflows/web.yml/badge.svg)
 
+Ссылка на [Github Pages](https://art20230129.github.io/js_ahj_hw_9_animation/)
+
 # Домашнее задание к занятию "9. Анимации и CSS"
 
 Правила сдачи задания:
