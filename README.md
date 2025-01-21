@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/20gqihov5dg3n4n6?svg=true)](https://ci.appveyor.com/project/ART20230129/js-ahj-hw-9-animation)
+
+
 # Домашнее задание к занятию "9. Анимации и CSS"
 
 Правила сдачи задания:
